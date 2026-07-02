@@ -26,3 +26,7 @@ Welcome to Masao's Lab.
 - [About](/about/)
 - [Notes](/notes/)
 - [Projects](/projects/)
+
+## Latest Note
+
+- [Why I Started Masao’s Lab](/first-note/)
