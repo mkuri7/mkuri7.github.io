@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: home
 title: Masao's Lab
 ---
 
@@ -9,24 +9,6 @@ title: Masao's Lab
 
 *Curiosity in My 50s — Work, AI, English, and Everyday Discoveries.*
 
-Welcome to Masao's Lab.
-
 仕事、AI、プログラミング、英語、日本文化、そして日々の小さな発見について記録していきます。
 
-- Work & Career
-- AI & Coding
-- English Learning
-- Japan & Everyday Life
-- Culture
-
-少しずつ、一つひとつの発見を残していきます。
-
-## Explore
-
-- [About](/about/)
-- [Notes](/notes/)
-- [Projects](/projects/)
-
-## Latest Note
-
-- [Why I Started Masao’s Lab](/first-note/)
+このサイトは、50代からも新しいことを学び、作り、共有していくための公開ノートです。
