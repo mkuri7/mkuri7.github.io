@@ -1,5 +1,5 @@
 ---
-layout: home
+layout: default
 title: Masao's Lab
 ---
 
@@ -12,3 +12,14 @@ title: Masao's Lab
 仕事、AI、プログラミング、英語、日本文化、そして日々の小さな発見について記録していきます。
 
 このサイトは、50代からも新しいことを学び、作り、共有していくための公開ノートです。
+
+## Latest Notes
+
+<ul>
+{% for post in site.posts limit: 5 %}
+  <li>
+    <a href="{{ post.url }}">{{ post.title }}</a>
+    <small>{{ post.date | date: "%Y年%-m月%-d日" }}</small>
+  </li>
+{% endfor %}
+</ul>
