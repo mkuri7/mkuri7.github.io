@@ -1,0 +1,9 @@
+title: "Masao's Lab"
+description: "50代の好奇心。仕事、AI、英語、そして日々の発見。"
+lang: ja
+timezone: Asia/Tokyo
+
+theme: jekyll-theme-minimal
+
+plugins:
+  - jekyll-feed
