@@ -20,3 +20,9 @@ Welcome to Masao's Lab.
 - Culture
 
 少しずつ、一つひとつの発見を残していきます。
+
+## Explore
+
+- [About](/about/)
+- [Notes](/notes/)
+- [Projects](/projects/)
