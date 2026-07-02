@@ -7,3 +7,5 @@ theme: jekyll-theme-minimal
 
 plugins:
   - jekyll-feed
+author:
+  name: Masao
