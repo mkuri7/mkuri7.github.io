@@ -1,3 +1,9 @@
+---
+layout: default
+title: "MASAO’s Python Development Reference"
+date: 2026-07-14
+---
+
 # MASAO’s Python Development Reference
 
 A practical reference for Python, virtual environments, uv, Git, and WSL
