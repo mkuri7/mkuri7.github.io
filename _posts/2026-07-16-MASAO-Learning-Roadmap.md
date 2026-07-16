@@ -1,3 +1,9 @@
+---
+layout: default
+title: "MASAO Learning Roadmap"
+date: 2026-07-16
+---
+
 # MASAO Learning Roadmap
 
 Version 1.0
