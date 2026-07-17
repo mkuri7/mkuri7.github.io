@@ -1,3 +1,10 @@
+---
+layout: default
+title: "VS Code quick reference (JA_JP)"
+date: 2026-07-17
+---
+
+
 # VS Codeで最初に覚えるお作法
 
 VS Codeでは、すべての文字を一字ずつ手入力する必要はありません。
