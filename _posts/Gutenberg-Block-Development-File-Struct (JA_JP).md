@@ -177,7 +177,7 @@ Static Blockで使用されます。
 
 投稿保存時にHTMLを生成し、そのHTMLが投稿本文に保存されます。
 
-Dynamic Blockでは使用しません。
+Dynamic Blockでは使用しません（render.phpを使用するため）。
 
 ---
 
