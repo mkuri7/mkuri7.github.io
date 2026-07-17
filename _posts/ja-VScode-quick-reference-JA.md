@@ -336,6 +336,8 @@ Shift + F8
 
 ## 最初に覚えるショートカット
 
+## 最初に覚えるショートカット
+
 | 操作 | Mac |
 |---|---|
 | 補完候補を表示 | `Control + Space` |
@@ -343,8 +345,16 @@ Shift + F8
 | ファイル全体を整形 | `Shift + Option + F` |
 | Command Paletteを開く | `Shift + Command + P` |
 | 次の同じ文字列を選択 | `Command + D` |
+| 行を削除 | `Command + Shift + K` |
 | 行を上下に移動 | `Option + ↑ / ↓` |
-| 行を複製 | `Shift + Option + ↓` |
+| 行を複製 | `Shift + Option + ↑ / ↓` |
+| 行をコピー | `Command + C` |
+| 行を切り取り | `Command + X` |
+| 下に新しい行を挿入 | `Command + Enter` |
+| 上に新しい行を挿入 | `Command + Shift + Enter` |
+| 行を選択 | `Command + L` |
+| 元に戻す | `Command + Z` |
+| やり直す | `Command + Shift + Z` |
 | 次のエラーへ移動 | `F8` |
 | 前のエラーへ移動 | `Shift + F8` |
 
