@@ -1,3 +1,8 @@
+---
+layout: default
+title: about Alfred & Masao Co., Ltd.
+---
+
 # Alfred & Masao Co., Ltd.
 
 ## A Small Software Workshop for the AI Era
