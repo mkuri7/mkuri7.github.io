@@ -13,6 +13,12 @@ title: Masao's Lab
 
 このサイトは、50代からも新しいことを学び、作り、共有していくための公開ノートです。
 
+## Alfred & Masao Co., Ltd.
+
+A small software workshop for the AI era.
+
+[Read our story](about.md)
+
 ## Latest Notes
 
 <ul>
