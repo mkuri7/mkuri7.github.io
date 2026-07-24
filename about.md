@@ -2,7 +2,7 @@
 
 ## A Small Software Workshop for the AI Era
 
-![Alfred & Masao Co., Ltd.](masao/assets/images/alfred-masao-founder1.png)
+![Alfred & Masao Co., Ltd.](assets/images/alfred-masao-founder1.png)
 
 **Founded July 24, 2026**
 
