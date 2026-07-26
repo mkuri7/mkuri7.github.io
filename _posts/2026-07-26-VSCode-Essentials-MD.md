@@ -5,8 +5,6 @@ date: 2026-07-26
 categories: [learning, writing, markdown]
 ---
 
-# VS Code Essentials for Markdown writing
-
 ## Goal
 
 Markdownを書くために毎日使うVS Code操作を覚える
