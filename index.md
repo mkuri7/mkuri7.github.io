@@ -47,8 +47,21 @@ Exploring practical collaboration between humans and AI through software project
 
 ---
 
+## Projects
+
+Explore my current software projects and technology experiments.
+
+- Alfred
+- LotoLab AI
+- EdgeSnap
+- Weekend Projects
+
+[View Projects](projects.md)
+
+---
+
 ## Latest Notes
 
-{% for post in site.posts limit:5 %}
+{% for post in site.posts limit:7 %}
 - [{{ post.title }}]({{ post.url }})
 {% endfor %}
