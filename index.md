@@ -5,27 +5,50 @@ title: Masao's Lab
 
 # Masao's Lab
 
-## 50代の好奇心。仕事、AI、英語、そして日々の発見。
+## Curiosity in My 50s — Work, AI, English, and Everyday Discoveries
 
 *Curiosity in My 50s — Work, AI, English, and Everyday Discoveries.*
 
-仕事、AI、プログラミング、英語、日本文化、そして日々の小さな発見について記録していきます。
+Welcome to Masao's Lab.
 
-このサイトは、50代からも新しいことを学び、作り、共有していくための公開ノートです。
+This site documents my journey of learning, building, and exploring technology in the AI era.
+
+After decades of experience in enterprise technology, I continue exploring new possibilities through software development, AI experiments, and daily discoveries.
+
+Topics include:
+
+- AI and Generative AI
+- Software development
+- Programming
+- Developer tools
+- English learning
+- Technology experiments
+- Everyday discoveries
+
+---
+
+## About MASAO
+
+Enterprise technology professional with 35+ years of experience across IBM Japan, Dell Technologies Japan, and global technology conpanies.
+
+My career has evolved from mission-critical systems engineering to enterprise technology leadership, business operations, and AI-era software development.
+
+[Read about MASAO](about-masao.md)
+
+---
 
 ## Alfred & Masao Co., Ltd.
 
 A small software workshop for the AI era.
 
+Exploring practical collaboration between humans and AI through software projects and experiments.
+
 [Read our story](about.md)
+
+---
 
 ## Latest Notes
 
-<ul>
-{% for post in site.posts limit: 5 %}
-  <li>
-    <a href="{{ post.url }}">{{ post.title }}</a>
-    <small>{{ post.date | date: "%Y年%-m月%-d日" }}</small>
-  </li>
+{% for post in site.posts limit:5 %}
+- [{{ post.title }}]({{ post.url }})
 {% endfor %}
-</ul>
