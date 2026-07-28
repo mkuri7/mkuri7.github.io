@@ -10,6 +10,9 @@ permalink: /notes/
 
 仕事、AI、プログラミング、英語、日本文化、箱根の日常、猫、料理など、形式にこだわらず投稿します。
 
+I share my learning journey, technical experiments, and everyday discoveries through personal notes.
+
+
 ## All Notes
 
 <ul>
