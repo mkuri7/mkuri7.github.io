@@ -49,7 +49,7 @@ Exploring practical collaboration between humans and AI through software project
 
 ## Projects
 
-Explore my current software projects and technology experiments.
+Explore my current software projects and experiments in AI, programming, and modern technology.
 
 - Alfred
 - LotoLab AI
