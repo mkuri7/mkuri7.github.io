@@ -1,6 +1,7 @@
 ---
 layout: default
 title: About MASAO
+permalink: /about-masao/
 ---
 
 # About MASAO

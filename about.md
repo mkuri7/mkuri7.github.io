@@ -1,6 +1,6 @@
 ---
 layout: default
-title: about Alfred & Masao Co., Ltd.
+permalink: /about-Alfred-and-Masao/
 ---
 
 # Alfred & Masao Co., Ltd.
