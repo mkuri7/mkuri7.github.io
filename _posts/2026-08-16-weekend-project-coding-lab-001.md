@@ -1,10 +1,10 @@
 ---
 layout: post
-title: "Weekend Project - Coding Lab 001 Hello TypeScript”
+title: "Weekend Project Coding Lab 001 Hello TypeScript”
 date: 2026-08-16
 ---
 
-# Weekend Project - Coding Lab #001
+# Weekend Project - Coding Lab 001
 
 ## 雑談部分
 
