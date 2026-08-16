@@ -39,9 +39,9 @@ SQL
 LLM
 ```
 
-tsx = ロジック＋UI構造＋データの流れ
-CSS = 見た目＋レイアウト＋表現
-アプリケーション = TypeScript/TSX + CSS + Assets
+- tsx = ロジック＋UI構造＋データの流れ
+- CSS = 見た目＋レイアウト＋表現
+- アプリケーション = TypeScript/TSX + CSS + Assets
 
 ```text
 Component
@@ -63,7 +63,6 @@ SwiftUIとReactの比較
 | UI開発速度 | ○ | ◎ |
 
 ## 学習メモ
-
 
 - code . は親ディレクトリではなく、該当タスクのディレクトリで実行する
 - const: 定数、ほとんどこれ、let: 値が変化するときのみ、var: 基本使わない
