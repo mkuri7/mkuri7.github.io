@@ -14,6 +14,7 @@ date: 2026-08-16
 3. CSS: 表現
 
 - ロジック部分にPythonを使うことも一般的。Swiftを使うことも
+  
 ```text
 Frontend
 ================
@@ -36,13 +37,13 @@ Data / AI
 Python
 SQL
 LLM
-
----
+```
 
 tsx = ロジック＋UI構造＋データの流れ
 CSS = 見た目＋レイアウト＋表現
 アプリケーション = TypeScript/TSX + CSS + Assets
 
+```text
 Component
 ├── Structure
 │      JSX
